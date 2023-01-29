@@ -18,15 +18,15 @@ Study Buddy application is targeted toward university students who are preparing
 
 From an end-user's perspective, Study Buddy application will allow students to:
 
--Create a profile that includes their name, academic level, courses they are taking, and exam schedule.
+- Create a profile that includes their name, academic level, courses they are taking, and exam schedule.
 
--Search for study partners by matching them with potential study partners who are taking the same courses and have a similar exam schedule.
+- Search for study partners by matching them with potential study partners who are taking the same courses and have a similar exam schedule.
 
--Connect with study partners through the platform and start a conversation.
+- Connect with study partners through the platform and start a conversation.
 
--Form study groups to organize and schedule study sessions with their partners, either in-person or online.
+- Form study groups to organize and schedule study sessions with their partners, either in-person or online.
 
--Collaborate and share resources such as study materials and practice exam
+- Collaborate and share resources such as study materials and practice exam
 
 
 ### Scope
